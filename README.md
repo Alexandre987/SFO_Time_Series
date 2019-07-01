@@ -33,7 +33,7 @@ After mean absolute error was obtained, the model was retrained on all available
 
 ## Future Work
 
-Future work would be to take the difference between each airline's departures and arrivals every month. Time series analysis would then to be used to see if there is a seasonal pattern in this difference. If there is a predictable pattern, recommendations could be given for next year for two reasons:
+In future work, I'd like to take the difference between each airline's departures and arrivals every month. Time series analysis would then to be used to see if there is a seasonal pattern in this difference. If there is a predictable pattern, recommendations could be given for next year for two purposes:
 
 1. Commercial: Airlines could know what level of inefficiency to expect from their flights in and out of SFO next year
 2. Consumer: Passengers could know what airline to book in order to find the most empty plane in any given month (more leg room and baggage space!). For instance, perhaps one airline would be the best to fly during the winter holiday months, while another would be the best during the summer months.
