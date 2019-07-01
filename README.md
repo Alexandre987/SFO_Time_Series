@@ -1,6 +1,6 @@
 # SFO_Time_Series
 
-#### -- Project Status: [On-Hold]
+#### -- Project Status: [Completed]
 
 ## Project Intro/Objective
 The goal of this project is to capacity plan as accurately as possible for SFO (San Francisco's airport) through 2023 - 48 months away at the time of analysis. The purpose of the project was to use multiple time series methods to compare which would be the most effective, from traditional methods like SARIMA to newer methods like neural nets.
